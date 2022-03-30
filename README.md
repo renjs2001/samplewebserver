@@ -9,7 +9,7 @@ a samplewebserver for pine
 
 
 ## webbench测试
-对30daymakecppserver进行修改 支持http 1.0协议 使用webbench进行压测
+对30daymakecppserver day12 进行修改 支持http 1.0协议 使用webbench进行压测
 测试环境 vmware虚拟机 ubuntu20.04 处理器R7-4800H 内存8GB
 结果如下
 线程池线程数量 ：2线程
