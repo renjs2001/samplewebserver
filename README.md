@@ -5,7 +5,12 @@ a samplewebserver for pine
        webserve    [地址](https://github.com/linyacool/WebServer)
 30day 已经停了一段时间，所以在他的基础上，进行修改，和添加功能
 
-
+TODO list：
+* 改进为多任务队列线程池，进一步包括work steal线程池
+* 实现cgi
+* 同时支持长连接
+* 定时器
+* 日志系统
 
 
 ## webbench测试
